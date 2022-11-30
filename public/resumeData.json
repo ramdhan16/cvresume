@@ -1,121 +1,100 @@
 {
   "main": {
     "name": "Ramdhan Hidayat",
-    "occupation": "CEO of PAPA",
-    "description": "Freelancer",
+    "occupation": "Graphic Designer",
+
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Juan! I've been coding for over 1-2 years now. As a Front-End developer I've worked as Freelancer. And I'm also a UI/UX Designer. I have worked on several projects, ranging from creating a blog website using Wordpress (SEO), designing Mobile Apps using Figma. I improve my skills by taking various courses and increase my portfolio by creating cloned applications.",
+    "bio": "Hi there! I am Ramdhan! I once created and designed a simple website at PDAM Gowa Tirta Jeneberang with a team. I also have experience managing websites and making digital designs such as flyers, banners and others. For now I am still working as an IT staff employee or education staff at the Pendidikan Kader Ulama Masjid Istiqlal (PKUMI) at the Istiqlal Mosque in Jakarta.",
     "contactmessage": "Get in touch with me",
-    "email": "juanfirmansyah.jf@gmail.com",
-    "phone": "+62 85340621139",
+    "email": "adamhidayat1616@gmail.com",
+    "phone": "+62 82393395338",
     "address": {
-      "street": "Jl. K. H. Mas Mansyur No.63, Tanah Abang, Jakarta Pusat.",
-      "city": "Jakarta",
+      "street": "Btn. Minasaupa Blok G21. No. 21",
+      "city": "Makassar",
       "state": "Indonesia",
-      "zip": "W3B D3V"
+      "zip": "90222"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCj4qN8TjNsjsiWBVQe2rpag",
+        "url": "https://www.youtube.com/channel/UCdwVbxtrD2oYdAtDgvEFQFg",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/juanfirmansyahhh/",
+        "url": "https://www.facebook.com/ramdhan16",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/juan-firmansyah-8b6602197",
+        "url": "https://www.linkedin.com/in/ramdhan-hidayat-a9325822b",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/juaansyah/",
+        "url": "https://www.instagram.com/ramdhanhidayat_/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/JuanFirmansyah",
+        "url": "https://github.com/ramdhan16",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Programming and Design Proficiency",
     "education": [
       {
-        "school": "University Bina Sarana Informatika",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2019 - Present",
+        "school": "State Islamic University of Alauddin Makassar",
+        "degree": "Bachelor's Degree, Informatic Engineering",
+        "graduated": "July 2016 - August 2021",
         "description": "Undergraduated"
       }
     ],
     "work": [
       {
-        "company": "Freelance",
-        "title": "Front End Developer",
-        "years": "May 2020 - Present",
-        "description": "Design and Developing Website "
+        "company": "Badan Pengelola Masjid Istiqlal - Unit Pendidikan Kader Ulama Masjid Istiqlal (PKUMI)",
+        "title": "IT Staff",
+        "years": "February 2022 - Present",
+        "description": "Graphic Designer, Media Content Creator, Websites Administrator "
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Photoshop",
         "level": "70%"
       },
       {
         "name": "UI/UX",
-        "level": "90%"
+        "level": "55%"
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "50%"
       },
       {
         "name": "JavaScript",
-        "level": "90%"
+        "level": "55%"
       },
       {
         "name": "Web Development",
-        "level": "80%"
+        "level": "30%"
       }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Netflix Clone (React JS)",
-        "category": "",
-        "image": "netflix.png",
-        "url": "https://netflix-clone-7d963.web.app/"
-      },
-      {
-        "title": "Google Clone (React JS)",
-        "category": "",
-        "image": "google.png",
-        "url": "https://clone-60078.web.app/"
-      },
-      {
-        "title": "AirBNB Clone (React JS)",
-        "category": "",
-        "image": "airbnb.png",
-        "url": ""
-      }
-    ]
-  },
+
   "testimonials": {
     "testimonials": [
       {
-        "text": "Juan is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Client"
+        "text": "Ramdhan is absolutely good, his depth of knowledge about managing websites and content design is good and creative.",
+        "user": "College Student from PKUMI"
       },
       {
-        "text": "Learning with Juan has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Ramdhan has been AWESOME, he makes a good Design like poster, banners and etc.",
+        "user": "Karim"
       }
     ]
   }
