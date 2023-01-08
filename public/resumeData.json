@@ -14,8 +14,8 @@
       "state": "Indonesia",
       "zip": "90222"
     },
-    "website": "https://drive.google.com/file/d/1jezR-AHIg-7fhKw1HHfc6g1H3sVfFxTk/view?usp=share_link",
-    "resumedownload": "https://drive.google.com/file/d/1jezR-AHIg-7fhKw1HHfc6g1H3sVfFxTk/view?usp=share_link",
+    "website": "https://drive.google.com/file/d/1qad06GnvLApqHrcgYPSpQeO686cOD8GP/view?usp=share_link",
+    "resumedownload": "https://drive.google.com/file/d/1qad06GnvLApqHrcgYPSpQeO686cOD8GP/view?usp=share_link",
     "social": [
       {
         "name": "youtube",
@@ -58,7 +58,7 @@
       {
         "company": "Badan Pengelola Masjid Istiqlal - Unit Pendidikan Kader Ulama Masjid Istiqlal (PKUMI)",
         "title": "IT Staff",
-        "years": "February 2022 - Present",
+        "years": "February 2022 - Desember 2022",
         "description": "Graphic Designer, Media Content Creator, Websites Administrator "
       }
     ],
@@ -85,6 +85,7 @@
       }
     ]
   },
+    
 
   "testimonials": {
     "testimonials": [
@@ -94,7 +95,7 @@
       },
       {
         "text": "Learning with Ramdhan has been AWESOME, he makes a good Design like poster, banners and etc.",
-        "user": "Karim"
+        "user": "Karim Staff From PKUMI"
       }
     ]
   }
